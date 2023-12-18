@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante do ensino médio<br>Gosto de programação<br>Pretendo ser estudante de front end
+Sou estudante do ensino médio<br>Gosto de programação<br>Cursando Técnico em Informática 2/3
 
 
 ## 🌐 Socials:
