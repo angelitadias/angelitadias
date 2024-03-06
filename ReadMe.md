@@ -1,5 +1,5 @@
 # 🙋‍♀️ About Me:
-Sou estudante do ensino médio<br>Gosto de programação<br>Cursando Técnico em Informática 2/3
+Estudante do Ensino Médio<br>Cursando Técnico em Informática<br>Apaixonada por programação
 
 
 ## 🌐 Socials:
