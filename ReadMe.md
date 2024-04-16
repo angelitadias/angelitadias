@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%3D85C6&size=30&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+Angelita+Dias;Web+Development+student;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%C9DAF8&size=30&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+Angelita+Dias;Web+Development+student;+:%29)](https://git.io/typing-svg)
 Estudante do Ensino Médio<br>Cursando Técnico em Desenvolvimento Web<br>Estudando JavaScript e ReactJS
 
 
