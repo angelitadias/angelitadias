@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%5F87FF&size=30&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+Angelita+Dias;Web+Development+student;+:%29)](https://git.io/typing-svg)
-High School student<br>Web Development technique<br>Studyng JS, SQL and Data
+Data Science and AI student<br>Web Development technique<br>Studyng Python, SQL and Data
 
 
 # 💻 Tecnologias:
