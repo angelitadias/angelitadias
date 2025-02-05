@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%5F87FF&size=30&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+Angelita+Dias;Data+Science+student;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%5F87FF&size=30&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Angelita+Dias;Data+Science+student;+:%29)](https://git.io/typing-svg)
 Data Science and AI student<br>Learning Python, SQL and Data
 
 
-# 💻 Tecnologias:
+# 💻 Skills:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
